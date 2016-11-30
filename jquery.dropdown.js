@@ -5,6 +5,8 @@
  *
  * @license: MIT license: http://opensource.org/licenses/MIT
  *
+ * Isto Agora é Meu
+ *
  */
 if (jQuery) (function ($) {
 
